@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
 }
